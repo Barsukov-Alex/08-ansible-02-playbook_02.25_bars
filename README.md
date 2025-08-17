@@ -31,9 +31,9 @@
 
 ### Решение
 
-1. <img src = "img/hw_ansible_1.jpg" width = 100%>
-2. <img src = "img/hw_ansible_2.jpg" width = 100%>
-3. <img src = "img/hw_ansible_3.jpg" width = 100%>
-4. <img src = "img/hw_ansible_4.jpg" width = 100%>
-5. <img src = "img/hw_ansible_5.jpg" width = 100%>
-6. <img src = "img/hw_ansible_6.jpg" width = 100%>
+1. <img src = "img/hw_ansible_1.png" width = 100%>
+2. <img src = "img/hw_ansible_2.png" width = 100%>
+3. <img src = "img/hw_ansible_3.png" width = 100%>
+4. <img src = "img/hw_ansible_4.png" width = 100%>
+5. <img src = "img/hw_ansible_5.png" width = 100%>
+6. <img src = "img/hw_ansible_6.png" width = 100%>

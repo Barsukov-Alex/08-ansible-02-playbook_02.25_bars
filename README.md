@@ -27,3 +27,13 @@
 Приложите ссылку на ваше решение в поле "Ссылка на решение" и нажмите "Отправить решение"
 
 ---
+
+
+### Решение
+
+1. <img src = "img/hw_ansible_1.jpg" width = 100%>
+2. <img src = "img/hw_ansible_2.jpg" width = 100%>
+3. <img src = "img/hw_ansible_3.jpg" width = 100%>
+4. <img src = "img/hw_ansible_4.jpg" width = 100%>
+5. <img src = "img/hw_ansible_5.jpg" width = 100%>
+6. <img src = "img/hw_ansible_6.jpg" width = 100%>
